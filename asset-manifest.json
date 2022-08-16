@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/unitechorganics/static/css/main.a88f62b1.css",
-    "main.js": "/unitechorganics/static/js/main.00010140.js",
-    "static/js/787.1a2f9c22.chunk.js": "/unitechorganics/static/js/787.1a2f9c22.chunk.js",
-    "static/media/india.png": "/unitechorganics/static/media/india.f97032e8cd3446816d3a.png",
-    "static/media/logo.svg": "/unitechorganics/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/unitechorganics/index.html",
-    "main.a88f62b1.css.map": "/unitechorganics/static/css/main.a88f62b1.css.map",
-    "main.00010140.js.map": "/unitechorganics/static/js/main.00010140.js.map",
-    "787.1a2f9c22.chunk.js.map": "/unitechorganics/static/js/787.1a2f9c22.chunk.js.map"
+    "main.css": "/static/css/main.209d4982.css",
+    "main.js": "/static/js/main.0cea471e.js",
+    "static/js/787.1a2f9c22.chunk.js": "/static/js/787.1a2f9c22.chunk.js",
+    "static/media/india.png": "/static/media/india.f97032e8cd3446816d3a.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.209d4982.css.map": "/static/css/main.209d4982.css.map",
+    "main.0cea471e.js.map": "/static/js/main.0cea471e.js.map",
+    "787.1a2f9c22.chunk.js.map": "/static/js/787.1a2f9c22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a88f62b1.css",
-    "static/js/main.00010140.js"
+    "static/css/main.209d4982.css",
+    "static/js/main.0cea471e.js"
   ]
 }
