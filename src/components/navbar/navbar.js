@@ -13,7 +13,9 @@ const Navbar = () => {
             //   onClick={() => navigate("/")}
             className="nav-title"
           >
-            Unitech Organics
+            <h1 style={{ marginTop: "0", fontSize: "25px", color: "white" }}>
+              Unitech Organics
+            </h1>
           </div>
         </div>
         <div className="nav-btn">
