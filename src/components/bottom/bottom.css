@@ -12,11 +12,9 @@
 }
 .icon img {
   margin: 20px;
-  width: 100px;
+  width: 60px;
 }
 .btn {
-  padding-top: 15px;
-  margin: 40px 5px;
   background-color: initial;
   font-size: 20px;
   border: none;
@@ -31,4 +29,7 @@
   padding-top: 47px;
   text-align: center;
   font-size: 20px;
+}
+.icon p {
+  margin: auto 0px;
 }

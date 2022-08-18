@@ -15,9 +15,8 @@ function App() {
           <img alt="load" src={log} />
         </div>
         <div className="independence">
-          <h1>Happy</h1>
-          <h2>Independence</h2>
-          <h3>Day</h3>
+          <h1>Unitech</h1>
+          <h2>Organics</h2>
           {/* <div class="dark fire">
             <h1 class="Blazing" contenteditable="true">
               Happy
@@ -31,8 +30,8 @@ function App() {
           </div> */}
         </div>
       </div>
-      <h1>Shop By Values</h1>
-      <Card />
+      {/* <h1>Shop By Values</h1> */}
+      {/* <Card /> */}
       <Bottom />
     </div>
   );
