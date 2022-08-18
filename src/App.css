@@ -37,13 +37,13 @@
   background-size: cover;
   background-position: center;
   height: 100vh;
+  display: flex;
 }
 .imgorg h1 {
   margin-top: 0;
   margin-left: 20px;
 }
 .independence {
-  background-image: url("./images/india.png");
   background-size: cover;
   background-position: center;
   height: 50vh;
@@ -52,4 +52,30 @@
 .App h1 {
   text-align: center;
   color: grey;
+}
+
+.independence h1 {
+  margin-left: 50px;
+  font-style: italic;
+  color: rgb(255, 169, 8);
+  font-size: 100px;
+  margin-bottom: 0;
+}
+.independence h2 {
+  margin-top: 0;
+  margin-left: 100px;
+  font-style: italic;
+  color: rgb(235, 228, 228);
+  font-size: 100px;
+  margin-bottom: 0;
+}
+.independence h3 {
+  margin-top: 0;
+  margin-left: 500px;
+  font-style: italic;
+  color: rgb(7, 248, 19);
+  font-size: 100px;
+}
+.logs {
+  padding: 40px 10px 40px 30px;
 }

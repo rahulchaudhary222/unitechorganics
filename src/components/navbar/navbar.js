@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./navbar.css";
 // import { useNavigate } from "react-router-dom";
 
@@ -36,10 +37,10 @@ const Navbar = () => {
           >
             Contact Us
           </a>
-          <a href="http://stackoverflow.com/users/4084003/" target="_blank">
+          {/* <a href="http://stackoverflow.com/users/4084003/" target="_blank">
             Stackoverflow
-          </a>
-          <a
+          </a> */}
+          {/* <a
             href="https://in.linkedin.com/in/jonesvinothjoseph"
             target="_blank"
           >
@@ -50,7 +51,7 @@ const Navbar = () => {
           </a>
           <a href="https://jsfiddle.net/user/jo_Geek/" target="_blank">
             JsFiddle
-          </a>
+          </a> */}
         </div>
       </div>
     </div>
