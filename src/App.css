@@ -33,9 +33,6 @@
   }
 }
 .imgorg {
-  background-image: url("https://www.24mantra.com/wp-content/uploads/2020/11/824x465-162.png");
-  background-size: cover;
-  background-position: center;
   height: 300px;
   display: flex;
   width: 100vw;
@@ -79,5 +76,5 @@
   padding: 40px 10px 40px 30px;
 }
 .logs img {
-  width: 50px;
+  width: 200px;
 }

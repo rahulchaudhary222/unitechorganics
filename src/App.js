@@ -1,4 +1,5 @@
 import log from "../src/images/download.png";
+import unilogo from "./images/unilogo.jpg";
 import "./App.css";
 import "./components/text.css";
 import Navbar from "./components/navbar/navbar";
@@ -8,16 +9,17 @@ import Bottom from "./components/bottom/bottom";
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      {/* <Navbar /> */}
 
       <div className="imgorg">
         <div className="logs">
-          <img alt="load" src={log} />
+          <img alt="load" src={unilogo} />
         </div>
         <div className="independence">
-          <h1>Unitech</h1>
-          <h2>Organics</h2>
-          <h2>Pvt LTD</h2>
+          <h1>Unitech Organics Pvt LTD</h1>
+          <p style={{ fontSize: "30px", marginTop: "200px" }}>
+            under construction
+          </p>
           {/* <div class="dark fire">
             <h1 class="Blazing" contenteditable="true">
               Happy
