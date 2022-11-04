@@ -17,9 +17,7 @@ function App() {
         </div>
         <div className="independence">
           <h1>Unitech Organics Pvt LTD</h1>
-          <p style={{ fontSize: "30px", marginTop: "200px" }}>
-            under construction
-          </p>
+          <p>under construction</p>
           {/* <div class="dark fire">
             <h1 class="Blazing" contenteditable="true">
               Happy

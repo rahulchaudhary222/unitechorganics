@@ -72,9 +72,22 @@
   color: rgb(7, 248, 19);
   font-size: 50px;
 }
+.independence p {
+  font-size: 30px;
+  margin-top: 200px;
+}
 .logs {
   padding: 40px 10px 40px 30px;
 }
 .logs img {
   width: 200px;
+}
+@media only screen and (max-width: 720px) {
+  .logs img {
+    width: 100px;
+  }
+  .independence p {
+    font-size: 20px;
+    margin-top: 80px;
+  }
 }
