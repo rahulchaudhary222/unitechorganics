@@ -17,6 +17,7 @@ function App() {
         <div className="independence">
           <h1>Unitech</h1>
           <h2>Organics</h2>
+          <h2>Pvt LTD</h2>
           {/* <div class="dark fire">
             <h1 class="Blazing" contenteditable="true">
               Happy
